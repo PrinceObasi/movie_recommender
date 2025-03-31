@@ -16,4 +16,3 @@ It leverages the [Netflix Titles dataset](https://www.kaggle.com/shivamb/netflix
 - **Containerization:** A Dockerfile to build and run the application in a container.
 - **CI/CD:** A sample GitHub Actions workflow for automated testing.
 
-## Project Structure
